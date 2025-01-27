@@ -2,7 +2,7 @@
 
 # Craft Weather App
 
-Is an simple Android app for Weather built with Jetpack Compose. 
+Is a simple Android app for Weather built with Jetpack Compose. 
 It uses [openweathermap API](https://openweathermap.org/api). It has a single screen app which displays weather data from user's location city.
 
 
