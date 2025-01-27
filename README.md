@@ -45,7 +45,7 @@ Craft Weather app is built with the Model-View-ViewModel (MVVM) architecture wit
 
 ## Demo
 
-<img src="./screenshots/2025-01-27%2016.13.07.mov">
+<img src="./screenshots/demo_video.mp4">
 
 
 <img src="./screenshots/Database_Inspection.png">
