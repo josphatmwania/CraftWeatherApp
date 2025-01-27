@@ -66,3 +66,6 @@ Get an API key from [openweathermap API](https://openweathermap.org/api)
 - Show the last update
 - Handle network errors
 
+#### License
+
+MIT  [LICENSE](LICENSE) Josphat Mwania 2024
